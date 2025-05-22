@@ -1,0 +1,6 @@
+@EF_Prescription_Manager_HostAddress = http://localhost:5152
+
+GET {{EF_Prescription_Manager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
